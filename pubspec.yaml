@@ -32,7 +32,6 @@ dependencies:
   shared_preferences: 
   http: 
   loading: 
-  easy_dynamic_theme: 
   carousel_slider: ^2.3.1
   dynamic_theme: ^1.0.1
   pie_chart: ^5.0.0
